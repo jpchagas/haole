@@ -1,0 +1,6 @@
+jupyter-lab
+pandas
+labelimg
+torch
+matplotlib
+scikit-learn
